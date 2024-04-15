@@ -27,31 +27,31 @@ _New future era of my own home server._
 ## Hosted services
 
 - Cloud
-  - [Nextcloud] - cloud platform
+  - [Nextcloud](https://nextcloud.com/) - cloud platform
 - Media
-  - [Jellyfin] - video streaming platform
-  - [Radarr] - media downloader
-  - [Sonarr] - media indexing
+  - [Jellyfin](https://jellyfin.org/) - video streaming platform
+  - [Radarr](https://radarr.video/) - media downloader
+  - [Sonarr](https://sonarr.tv/) - media indexing
 - Monitoring
-  - [Grafana] - data visualization
-  - [Prometheus] - data collecting
+  - [Grafana](https://grafana.com/) - data visualization
+  - [Prometheus](https://prometheus.io/) - data collecting
 - Network
-  - [Nginx] - reverse proxy
-  - [Pihole] - local DNS and add blocker
+  - [Nginx](https://nginx.com) - reverse proxy
+  - [Pihole](https://pi-hole.net/) - local DNS and add blocker
 - Photo managment
-  - [Immich] - web gallery and mobile backup
-  - [Piwigo] - photography portfolio
+  - [Immich](https://immich.app/) - web gallery and mobile backup
+  - [Piwigo](https://piwigo.org/) - photography portfolio
 - Smart home
-  - [Deconz] - zigbee deconz gateway
-  - [Homeassistant] - smarthome manager
+  - [Deconz](https://www.phoscon.de/en/conbee2/software) - zigbee deconz gateway
+  - [Homeassistant](https://www.home-assistant.io/) - smarthome manager
 - Statistics
-  - [Wakapi] - coding statistics
-  - [YourSpotify] - spotify statistics
+  - [Wakapi](https://wakapi.dev/) - coding statistics
+  - [YourSpotify](https://github.com/Yooooomi/your_spotify) - spotify statistics
 - Other
-  - [Borgmatic] - backup
-  - [Ghost] - blogging platform
-  - [Homer] - cloud homepage
-  - [MagicMirror] - magic mirror server
-  - [Vaultwarden] - password manager
-  - [Watchtower] - docker images autoupdater
-  - [Wordpress] - website builder
+  - [Borgmatic](https://torsion.org/borgmatic/) - backup
+  - [Ghost](https://ghost.org/) - blogging platform
+  - [Homer](https://github.com/bastienwirtz/homer) - cloud homepage
+  - [MagicMirror](https://magicmirror.builders/) - magic mirror server
+  - [Vaultwarden](https://www.vaultwarden.net/) - password manager
+  - [Watchtower](https://containrrr.dev/watchtower/) - docker images autoupdater
+  - [Wordpress](https://wordpress.org/) - website builder
