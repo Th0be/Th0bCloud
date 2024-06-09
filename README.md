@@ -4,7 +4,7 @@ _New future era of my own home server._
 
 ## General informations
 
-- Domain name: [th0b.cloud](https://www.name.com/domain/search/navrat.cz)
+- Domain name: [th0b.cloud](https://www.name.com/domain/search/th0b.cloud)
 
 ## Mail services
 
@@ -39,8 +39,22 @@ _New future era of my own home server._
   - [Nginx](https://nginx.com) - reverse proxy
   - [Pihole](https://pi-hole.net/) - local DNS and add blocker
 - Photo managment
-  - [Immich](https://immich.app/) - web gallery and mobile backup
+  - [Immich](https://immich.app/) - web gallery and mobile gallery backup
+    - 🏁 Purpose - Web application for connecting mobile and camera media, viewing and sharing photos with multiuser support, photo synchronization, ai recognition, map and more.
+    - 📍 Missing:
+      - Specific folder sharing
+    - ❔ Alternatives:
+      - [Photoprism](https://www.photoprism.app/):
+        - ✅ Pros - specific folder sharing
+        - ❌ Cons - missing multiuser separate galleries, slower and "closed" develompent
   - [Piwigo](https://piwigo.org/) - photography portfolio
+    - 🏁 Purpose - Web application for personal photography portfolio with functional API for web implentation.
+    - 📍 Missing:
+      - Following folder strucure, all photos have to be manually uploaded
+      - Lack of modern design
+    - ❔ Alternatives:
+      - [Lychee](https://lycheeorg.github.io/):
+        - ❌ Cons - different gallery concept
 - Smart home
   - [Deconz](https://www.phoscon.de/en/conbee2/software) - zigbee deconz gateway
   - [Homeassistant](https://www.home-assistant.io/) - smarthome manager
@@ -52,6 +66,7 @@ _New future era of my own home server._
   - [Ghost](https://ghost.org/) - blogging platform
   - [Homer](https://github.com/bastienwirtz/homer) - cloud homepage
   - [MagicMirror](https://magicmirror.builders/) - magic mirror server
+  - [Rallly](https://rallly.co/) - event planning
   - [Vaultwarden](https://www.vaultwarden.net/) - password manager
   - [Watchtower](https://containrrr.dev/watchtower/) - docker images autoupdater
   - [Wordpress](https://wordpress.org/) - website builder
