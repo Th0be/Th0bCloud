@@ -1,3 +1,4 @@
 # TODO
 
-- Learn about container orchestration
+- Learn Tailscale, Kubernetes and Proxmox
+- Findout about Coolify
