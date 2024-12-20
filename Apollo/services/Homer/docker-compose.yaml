@@ -1,0 +1,22 @@
+version: "3.8"
+services:
+  homer:
+    image: b4bz/homer
+    container_name: homer
+    volumes:
+      - ./assets/:/www/assets
+    ports:
+      - 8080:8080
+    user: 1000:1000 # default
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: any
+      placement:
+        constraints: [node.role == manager]
+    networks:
+      - webnet
+
+networks:
+  webnet:
+    driver: overlay
