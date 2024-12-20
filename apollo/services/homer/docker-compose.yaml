@@ -1,8 +1,8 @@
 version: "3.8"
 services:
-  homer:
+  homerr:
     image: b4bz/homer
-    container_name: homer
+    container_name: homerr
     volumes:
       - assets/:/www/assets
     ports:

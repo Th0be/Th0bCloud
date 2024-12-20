@@ -1,6 +1,6 @@
 version: "3.8"
 services:
-  homer:
+  homerrr:
     image: b4bz/homer
     container_name: homerrr
     volumes:
